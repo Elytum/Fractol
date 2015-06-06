@@ -1,0 +1,2 @@
+This is a project done as a 42 project. It requires the minilibix to be alredy installed. Just build the project using the makefile (type make -C PATH_TO_THIS_FOLDER in your favorite shell).
+It displays the fractals julia and mandelbrot, with differents forms and tests for julia. Just type "./fractol" to get more informations.
